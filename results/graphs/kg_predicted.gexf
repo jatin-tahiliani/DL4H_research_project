@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-12-05">
+    <creator>NetworkX 3.6</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="relation" type="string" />
+    </attributes>
+    <nodes>
+      <node id="cardiac silhouette" label="cardiac silhouette" />
+      <node id="pleural effusion" label="pleural effusion" />
+      <node id="Pulmonary vasculature" label="Pulmonary vasculature" />
+      <node id="focal consolidation" label="focal consolidation" />
+      <node id="Mediastinum" label="Mediastinum" />
+      <node id="displaced rib fracture" label="displaced rib fracture" />
+      <node id="central venous catheter" label="central venous catheter" />
+      <node id="SVC" label="SVC" />
+      <node id="acute cardiopulmonary abnormality" label="acute cardiopulmonary abnormality" />
+      <node id="mildly enlarged" label="mildly enlarged" />
+      <node id="left pleural effusion" label="left pleural effusion" />
+      <node id="pulmonary vasculature" label="pulmonary vasculature" />
+      <node id="mildly congested" label="mildly congested" />
+      <node id="patchy bibasilar opacities" label="patchy bibasilar opacities" />
+      <node id="mediastinum" label="mediastinum" />
+      <node id="widened" label="widened" />
+      <node id="acute displaced rib fracture" label="acute displaced rib fracture" />
+      <node id="left-sided central venous catheter" label="left-sided central venous catheter" />
+      <node id="right atrium" label="right atrium" />
+      <node id="mild pulmonary edema" label="mild pulmonary edema" />
+      <node id="right pleural effusion" label="right pleural effusion" />
+      <node id="right upper lobe opacity" label="right upper lobe opacity" />
+      <node id="rib fracture" label="rib fracture" />
+      <node id="midline central venous catheter" label="midline central venous catheter" />
+      <node id="cavoatrial junction" label="cavoatrial junction" />
+      <node id="Right upper lobe opacity may represent infection" label="Right upper lobe opacity may represent infection" />
+      <node id="infection" label="infection" />
+      <node id="borderline prominent" label="borderline prominent" />
+      <node id="trace" label="trace" />
+      <node id="prominent" label="prominent" />
+      <node id="stable" label="stable" />
+      <node id="no acute displaced" label="no acute displaced" />
+      <node id="right upper lobe" label="right upper lobe" />
+      <node id="focal consolidations" label="focal consolidations" />
+      <node id="acute displaced rib fractures" label="acute displaced rib fractures" />
+      <node id="right-sided PICC line" label="right-sided PICC line" />
+      <node id="acute cardiopulmonary process" label="acute cardiopulmonary process" />
+      <node id="left basilar opacities" label="left basilar opacities" />
+      <node id="displaced rib fractures" label="displaced rib fractures" />
+      <node id="left chest port catheter tip" label="left chest port catheter tip" />
+      <node id="pulmonary congestion" label="pulmonary congestion" />
+      <node id="small effusion" label="small effusion" />
+      <node id="Hypertension" label="Hypertension" />
+      <node id="borderline enlarged" label="borderline enlarged" />
+      <node id="right lower lobe opacity" label="right lower lobe opacity" />
+      <node id="midline catheter tip" label="midline catheter tip" />
+      <node id="early pneumonia" label="early pneumonia" />
+      <node id="none" label="none" />
+      <node id="bilateral interstitial markings" label="bilateral interstitial markings" />
+      <node id="acute fracture" label="acute fracture" />
+      <node id="right-sided central line tip" label="right-sided central line tip" />
+      <node id="viral pneumonia" label="viral pneumonia" />
+      <node id="normal in size" label="normal in size" />
+      <node id="no" label="no" />
+      <node id="within normal limits" label="within normal limits" />
+      <node id="faint" label="faint" />
+      <node id="unremarkable" label="unremarkable" />
+      <node id="no evidence of" label="no evidence of" />
+      <node id="possible" label="possible" />
+      <node id="bibasilar atelectatic changes" label="bibasilar atelectatic changes" />
+      <node id="acute osseous abnormalities" label="acute osseous abnormalities" />
+      <node id="left-sided central venous catheter tip" label="left-sided central venous catheter tip" />
+      <node id="mild pulmonary edema pattern" label="mild pulmonary edema pattern" />
+      <node id="patchy opacity" label="patchy opacity" />
+      <node id="acute rib fracture" label="acute rib fracture" />
+      <node id="possible infection" label="possible infection" />
+      <node id="no evidence" label="no evidence" />
+      <node id="heart size" label="heart size" />
+      <node id="Lungs" label="Lungs" />
+      <node id="effusion" label="effusion" />
+      <node id="Vasculature" label="Vasculature" />
+      <node id="consolidation" label="consolidation" />
+      <node id="catheter tip" label="catheter tip" />
+      <node id="acute abnormality" label="acute abnormality" />
+      <node id="normal" label="normal" />
+      <node id="normal cardiac silhouette" label="normal cardiac silhouette" />
+      <node id="lungs" label="lungs" />
+      <node id="ground-glass opacities" label="ground-glass opacities" />
+      <node id="Multifocal pneumonia" label="Multifocal pneumonia" />
+      <node id="trace pleural effusion" label="trace pleural effusion" />
+      <node id="mild cardiomegaly" label="mild cardiomegaly" />
+      <node id="patchy bilateral opacities" label="patchy bilateral opacities" />
+      <node id="Mild pulmonary edema" label="Mild pulmonary edema" />
+      <node id="COPD" label="COPD" />
+      <node id="small bilateral pleural effusions" label="small bilateral pleural effusions" />
+      <node id="Residual post-infectious changes" label="Residual post-infectious changes" />
+      <node id="normal heart size" label="normal heart size" />
+      <node id="pneumonia" label="pneumonia" />
+      <node id="borderline enlarged heart" label="borderline enlarged heart" />
+      <node id="clear lungs" label="clear lungs" />
+      <node id="viral infection" label="viral infection" />
+      <node id="bibasilar opacities" label="bibasilar opacities" />
+      <node id="No acute cardiopulmonary abnormality" label="No acute cardiopulmonary abnormality" />
+      <node id="Asthma" label="Asthma" />
+      <node id="heart" label="heart" />
+      <node id="Hypoxia" label="Hypoxia" />
+      <node id="pulmonary edema" label="pulmonary edema" />
+    </nodes>
+    <edges>
+      <edge source="cardiac silhouette" target="acute cardiopulmonary abnormality" id="0">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="mildly enlarged" id="1">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="borderline prominent" id="2">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="acute cardiopulmonary process" id="3">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="borderline enlarged" id="4">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="normal in size" id="5">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="normal cardiac silhouette" id="6">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="mild cardiomegaly" id="7">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="normal heart size" id="8">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="borderline enlarged heart" id="9">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="small bilateral pleural effusions" id="10">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="No acute cardiopulmonary abnormality" id="11">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="lungs" id="12">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="cardiac silhouette" target="pleural effusion" id="13">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="acute cardiopulmonary abnormality" id="14">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="acute cardiopulmonary process" id="15">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="no" id="16">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="lungs" id="17">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="Multifocal pneumonia" id="18">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="borderline enlarged heart" id="19">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="Residual post-infectious changes" id="20">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="pneumonia" id="21">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="pleural effusion" target="Mild pulmonary edema" id="22">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="Pulmonary vasculature" target="acute cardiopulmonary abnormality" id="23">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Pulmonary vasculature" target="prominent" id="24">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="Pulmonary vasculature" target="acute cardiopulmonary process" id="25">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Pulmonary vasculature" target="within normal limits" id="26">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="focal consolidation" target="acute cardiopulmonary abnormality" id="27">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Mediastinum" target="acute cardiopulmonary abnormality" id="28">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Mediastinum" target="stable" id="29">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Mediastinum" target="acute cardiopulmonary process" id="30">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Mediastinum" target="widened" id="31">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Mediastinum" target="unremarkable" id="32">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="displaced rib fracture" target="acute cardiopulmonary abnormality" id="33">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="central venous catheter" target="SVC" id="34">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="SVC" target="right-sided PICC line" id="35">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="SVC" target="right-sided central line tip" id="36">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="SVC" target="catheter tip" id="37">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="acute cardiopulmonary abnormality" target="trace pleural effusion" id="38">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="acute cardiopulmonary abnormality" target="lungs" id="39">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="left pleural effusion" target="mild pulmonary edema" id="40">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="left pleural effusion" target="trace" id="41">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="left pleural effusion" target="left pleural effusion" id="42">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="pulmonary vasculature" target="mildly congested" id="43">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="pulmonary vasculature" target="prominent" id="44">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="patchy bibasilar opacities" target="mild pulmonary edema" id="45">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="mediastinum" target="widened" id="46">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="left-sided central venous catheter" target="right atrium" id="47">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="right atrium" target="left chest port catheter tip" id="48">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="right atrium" target="left-sided central venous catheter tip" id="49">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="mild pulmonary edema" target="small bilateral pleural effusions" id="50">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="mild pulmonary edema" target="bibasilar opacities" id="51">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="mild pulmonary edema" target="trace pleural effusion" id="52">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="mild pulmonary edema" target="patchy bilateral opacities" id="53">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="right pleural effusion" target="trace" id="54">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="right pleural effusion" target="small effusion" id="55">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="right upper lobe opacity" target="infection" id="56">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="right upper lobe opacity" target="right upper lobe" id="57">
+        <attvalues>
+          <attvalue for="0" value="part_of" />
+        </attvalues>
+      </edge>
+      <edge source="right upper lobe opacity" target="possible infection" id="58">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="rib fracture" target="no acute displaced" id="59">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="midline central venous catheter" target="cavoatrial junction" id="60">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="cavoatrial junction" target="midline catheter tip" id="61">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="right upper lobe" target="patchy opacity" id="62">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="focal consolidations" target="acute cardiopulmonary process" id="63">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="acute displaced rib fractures" target="acute cardiopulmonary process" id="64">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="acute displaced rib fractures" target="none" id="65">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="left basilar opacities" target="pulmonary congestion" id="66">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Hypertension" target="early pneumonia" id="67">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="right lower lobe opacity" target="early pneumonia" id="68">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="none" target="acute abnormality" id="69">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="bilateral interstitial markings" target="faint" id="70">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="acute fracture" target="no evidence of" id="71">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="viral pneumonia" target="possible" id="72">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="bibasilar atelectatic changes" target="bibasilar atelectatic changes" id="73">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="mild pulmonary edema pattern" target="mild pulmonary edema pattern" id="74">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="acute rib fracture" target="no evidence" id="75">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="heart size" target="normal" id="76">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Lungs" target="effusion" id="77">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="Lungs" target="consolidation" id="78">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="Vasculature" target="normal" id="79">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="ground-glass opacities" id="80">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="patchy bilateral opacities" id="81">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="small bilateral pleural effusions" id="82">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="clear lungs" id="83">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="trace pleural effusion" id="84">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="bibasilar opacities" id="85">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="Mild pulmonary edema" id="86">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="pneumonia" id="87">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="Residual post-infectious changes" id="88">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="Multifocal pneumonia" id="89">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="lungs" target="pulmonary edema" id="90">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="ground-glass opacities" target="Multifocal pneumonia" id="91">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="ground-glass opacities" target="Residual post-infectious changes" id="92">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="ground-glass opacities" target="pneumonia" id="93">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="ground-glass opacities" target="viral infection" id="94">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="ground-glass opacities" target="Mild pulmonary edema" id="95">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="Multifocal pneumonia" target="patchy bilateral opacities" id="96">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Multifocal pneumonia" target="trace pleural effusion" id="97">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="Multifocal pneumonia" target="small bilateral pleural effusions" id="98">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="Multifocal pneumonia" target="clear lungs" id="99">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Multifocal pneumonia" target="bibasilar opacities" id="100">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Multifocal pneumonia" target="borderline enlarged heart" id="101">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="trace pleural effusion" target="Residual post-infectious changes" id="102">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="trace pleural effusion" target="Mild pulmonary edema" id="103">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="trace pleural effusion" target="viral infection" id="104">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="trace pleural effusion" target="No acute cardiopulmonary abnormality" id="105">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="trace pleural effusion" target="pneumonia" id="106">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="mild cardiomegaly" target="COPD" id="107">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="mild cardiomegaly" target="Residual post-infectious changes" id="108">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="mild cardiomegaly" target="viral infection" id="109">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="mild cardiomegaly" target="Hypoxia" id="110">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="patchy bilateral opacities" target="Mild pulmonary edema" id="111">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="patchy bilateral opacities" target="pneumonia" id="112">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="patchy bilateral opacities" target="Residual post-infectious changes" id="113">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="patchy bilateral opacities" target="viral infection" id="114">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="Mild pulmonary edema" target="small bilateral pleural effusions" id="115">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="COPD" target="pneumonia" id="116">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="COPD" target="viral infection" id="117">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="small bilateral pleural effusions" target="Residual post-infectious changes" id="118">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="small bilateral pleural effusions" target="viral infection" id="119">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="small bilateral pleural effusions" target="No acute cardiopulmonary abnormality" id="120">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="small bilateral pleural effusions" target="pneumonia" id="121">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Residual post-infectious changes" target="Asthma" id="122">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="Residual post-infectious changes" target="borderline enlarged heart" id="123">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="Residual post-infectious changes" target="bibasilar opacities" id="124">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="pneumonia" target="bibasilar opacities" id="125">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="borderline enlarged heart" target="heart" id="126">
+        <attvalues>
+          <attvalue for="0" value="located_in" />
+        </attvalues>
+      </edge>
+      <edge source="borderline enlarged heart" target="viral infection" id="127">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="clear lungs" target="viral infection" id="128">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="viral infection" target="bibasilar opacities" id="129">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+      <edge source="viral infection" target="Asthma" id="130">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="bibasilar opacities" target="No acute cardiopulmonary abnormality" id="131">
+        <attvalues>
+          <attvalue for="0" value="associated_with" />
+        </attvalues>
+      </edge>
+      <edge source="bibasilar opacities" target="pulmonary edema" id="132">
+        <attvalues>
+          <attvalue for="0" value="caused_by" />
+        </attvalues>
+      </edge>
+      <edge source="No acute cardiopulmonary abnormality" target="Hypoxia" id="133">
+        <attvalues>
+          <attvalue for="0" value="indicates" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
